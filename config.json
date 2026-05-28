@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentealculate",
+        "uuid": 31738552,
+        "checksum": "0n7ejk"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
